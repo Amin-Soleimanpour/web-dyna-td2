@@ -6,9 +6,9 @@
 </head>
 
 <body>
-	<h2><a href="?message=hello"> hello</a>
-		<a href="?message=bonjour">Bonjour</a>
-		<a href="?message=bye-bye">Bye</a>
+	<h2><a href=""> hello</a>
+		<a href="">Bonjour</a>
+		<a href="">Bye</a>
 	</h2>	
 	
 		
